@@ -8,13 +8,13 @@ A full-stack application that allows recruiters to build, customize, and manage 
 * **Job Management:** Full CRUD capabilities for open roles
 * **Candidate Experience:** A public-facing page (`/company-name`) with  client-side filtering for job location and type.
 
-## 🛠 Tech Stack
+## Tech Stack
 * **Framework:** Next.js 15 (App Router)
 * **Database & Auth:** Supabase (PostgreSQL + RLS)
 * **Styling:** Tailwind CSS + Shadcn/UI
 * **Icons:** Lucide React
 
-## 🏃‍♂️ How to Run
+## How to Run
 
 ### 1. Clone & Install
 ```bash
