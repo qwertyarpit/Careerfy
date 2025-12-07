@@ -3,7 +3,7 @@
 A full-stack application that allows recruiters to build, customize, and manage branded careers pages in minutes.
 
 ## Features
-* **Content Section** A toggle-based "Section Builder" that lets recruiters turn sections (About, Life, Team) on/off and edit content in real-time.
+* **Content Section** A toggle based Section Builder that lets recruiters Add different sections (About, Life, Team) on/off and edit content in real-time.
 * **Branding Section:** Recruiters can set logo, banner, video , themes and primary brand color, which dynamically generates a pastel background palette and button styles on the public page using CSS `color-mix`.
 * **Job Management:** Full CRUD capabilities for open roles
 * **Candidate Experience:** A public-facing page (`/company-name`) with  client-side filtering for job location and type.
